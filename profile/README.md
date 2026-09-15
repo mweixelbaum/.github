@@ -1,12 +1,20 @@
-## Hi there 👋
+# Marcel Noah Weixelbaum
 
-<!--
+Webentwicklung für kleine Unternehmen und Agenturen.
 
-**Here are some ideas to get you started:**
+Ich entwickle moderne, performante Websites und Webanwendungen – von der ersten Idee bis zum fertigen Produkt.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Tech-Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+## Projekte
+
+Demnächst verfügbar.
+
+## Kontakt
+
+Demnächst verfügbar.
