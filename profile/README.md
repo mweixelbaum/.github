@@ -10,7 +10,13 @@ Ich entwickle moderne, performante Websites und Webanwendungen – von der erste
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=express&logoColor=white)
+
+## Hosting
 ![Discord](https://img.shields.io/discord/1556057114374447134?style=flat&label=PABLO-Hosting.cc)
+
+
+
 
 
 ## Projekte
